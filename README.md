@@ -16,4 +16,4 @@ This repository contains demo code for:
 * Table column order
 * Hiding table columns
 
-![Welcome Page](./assets/welcome-page.png)
+![Welcome Page](./assets/welcome-page.png)  
